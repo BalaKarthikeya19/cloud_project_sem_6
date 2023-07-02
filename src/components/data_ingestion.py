@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
 
 from data_transformation import DataTransformation
-from ata_transformation import DataTransformationConfig
+from data_transformation import DataTransformationConfig
 
 from model_trainer import ModelTrainerConfig
 from model_trainer import ModelTrainer
